@@ -1,0 +1,6 @@
+[submodule "client-tracking"]
+	path = client-tracking
+	url = https://github.com/nicolasmarino99/client-tracking.git
+[submodule "server-tracking"]
+	path = server-tracking
+	url = https://github.com/nicolasmarino99/server-tracking.git
